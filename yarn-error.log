@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files (x86)\nodejs\node.exe C:\Users\aninh\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add next react react-dom
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files (x86)\Windows Live\Shared;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Python35\Scripts;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\nodejs\;C:\MinGW\bin;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Elastic\Elasticsearch\7.16.2\bin;C:\Tools\cmder\vendor\git-for-windows\bin;C:\Tools\cmder\vendor\git-for-windows\usr\bin;C:\Users\aninh\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\aninh\AppData\Local\Programs\Python\Python36-32\;C:\Users\aninh\AppData\Local\Microsoft\WindowsApps;C:\Users\aninh\AppData\Local\GitHubDesktop\bin;C:\Users\aninh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\aninh\AppData\Local\Microsoft\WindowsApps;C:\Users\aninh\AppData\Roaming\npm;C:\Tools\cmder\vendor\git-for-windows\bin;C:\Tools\cmder\vendor\git-for-windows\usr\bin;
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:69:26)
+
+npm manifest: 
+  {
+    "name": "AluraCord",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
